@@ -5,10 +5,10 @@ import pickle
 from generating_answers import generate_answer
 from openai import OpenAI
 
-with open("graphRAG/community_summaries.pkl", "rb") as f:
+with open("community_summaries.pkl", "rb") as f:
     community_summaries = pickle.load(f)
 
-with open("graphRAG/openai.txt", "r") as f:
+with open("openai.txt", "r") as f:
     api_key = f.read()
 client = OpenAI(api_key=api_key)
 
