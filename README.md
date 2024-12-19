@@ -54,6 +54,7 @@ GraphRAG_vf/
 
 #### Prerequisites
 Python 3.10+
+
 An OpenAI API key (add to .env file as OPENAI_API_KEY)
 
 A Google API key (for Google News, add as GOOGLE_API_KEY)
