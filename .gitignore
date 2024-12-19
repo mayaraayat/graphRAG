@@ -1,0 +1,8 @@
+# Byte-compiled / intermediate files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Environment / virtual environment
+env/
+*.env

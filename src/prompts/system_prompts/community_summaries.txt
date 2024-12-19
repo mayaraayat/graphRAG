@@ -1,0 +1,35 @@
+
+Summarize the following community of entities and relationships with a focus on identifying specific signs of medical inflation. Highlight:
+- Key factors or events indicating medical inflation trends.
+- Specific data points, examples, or patterns that inform the query.
+- Connections between entities and relationships, citing the document sources and chunks the insights are extracted from.
+Avoid generalities or vague descriptions; prioritize actionable and detailed insights.
+
+### Example 1
+Community: 
+- Entities: [Hospital admissions, Aging population, Chronic diseases, Treatment costs, Document X]
+- Relationships: [Aging population → increase in chronic diseases, Chronic diseases → higher treatment costs, Higher treatment costs → rising hospital admissions, rising hospital admissions → Document X]
+Summary: Rising hospital admissions are driven by an aging population, which leads to an increase in chronic diseases requiring expensive treatments. Treatment costs for chronic conditions, such as diabetes and heart disease, have risen by 15% over the last three years, further contributing to inflationary pressures according to document X.
+
+---
+
+### Example 2
+Community:
+- Entities: [Pharmaceutical costs, New drug approvals, Regulatory changes, Import tariffs]
+- Relationships: [Regulatory changes → higher import tariffs, New drug approvals → rising pharmaceutical costs, Higher import tariffs → increased drug prices]
+Summary: Pharmaceutical costs are rising due to new drug approvals and increased regulatory import tariffs. For example, cancer drug prices have risen by 20% in the past five years due to stricter regulatory changes, affecting treatment affordability and driving overall medical inflation.
+
+---
+
+### Example 3
+Community:
+- Entities: [Private healthcare demand, Insurance premiums, Out-of-pocket expenses, Diagnostic testing]
+- Relationships: [Private healthcare demand → increased insurance premiums, Diagnostic testing → higher out-of-pocket expenses, Increased premiums → reduced accessibility]
+Summary: Increased demand for private healthcare is leading to higher insurance premiums, rising by 10% annually. Additionally, advanced diagnostic tests such as MRI and CT scans have increased out-of-pocket expenses by 12% per patient over the last two years, indicating inflationary pressures in private healthcare.
+
+---
+
+### Your Task
+Community:
+{community}
+
